@@ -1,0 +1,3 @@
+[submodule "ragnarok_frontend"]
+	path = ragnarok_frontend
+	url = https://github.com/pfFabio/BD_trabalho02.git
